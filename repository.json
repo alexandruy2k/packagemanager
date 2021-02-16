@@ -1,0 +1,16 @@
+{
+  "author": "alexandruy2k",
+  "gitHubUrl": "https://github.com/alexandruy2k",
+  "packages": [
+    {
+      "id": "74930831-d03f-4367-aa42-48c55194dccb",
+      "name": "Broadlink Device Manager",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/alexandruy2k/packagemanager/main/packageManifest.json",
+      "description": "Allows controlling your IR and RF devices using a Broadlink RM",
+      "tags": [
+        "IR & RF"
+      ]
+    }
+  ]
+}
