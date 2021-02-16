@@ -9,7 +9,7 @@
       "id": "75553917-6592-41b4-99b0-df31987fc059",
       "name": "Broadlink Device Manager (BETA)",
       "namespace": "cybr",
-      "location": "https://raw.githubusercontent.com/alexandruy2k/Hubitat_private/main/Apps/Broadlink_App.groovy?token=ABBAHA7HZGKFY7BCFB63BCDAFQSNY",
+      "location": "https://pastebin.com/raw/qEbWibL8",
       "required": true,
       "oauth": false,
       "primary": false
@@ -20,7 +20,7 @@
       "id": "a8c2e908-7b0f-44b9-b520-91d86fe77f1e",
       "name": "Broadlink (BETA)",
       "namespace": "cybr",
-      "location": "https://raw.githubusercontent.com/alexandruy2k/Hubitat_private/main/Drivers/Broadlink_Driver.groovy?token=ABBAHA7WEVNJWS6NESK4ZO3AFQSQY",
+      "location": "https://pastebin.com/raw/mUKmS7PS",
       "required": true
     }
   ]
